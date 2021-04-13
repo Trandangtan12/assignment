@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack serve",
-    "start_server":"json-server -w ./json_db/db.json"
+    "start_server": "json-server -w ./json_db/db.json"
   },
   "keywords": [],
   "author": "",
